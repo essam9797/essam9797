@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Essam 👋
 
-<!--
-**essam9797/essam9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate **Mobile & Backend Developer** specializing in building intelligent, cross-platform applications by integrating **Flutter** with **Python AI Backends**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+* **Mobile App Development:** Flutter | Dart
+* **Backend Development:** Python | FastAPI
+* **AI & Integration:** Generative AI APIs (OpenAI / Gemini) | RESTful APIs
+* **Databases:** SQLite | PostgreSQL
+* **Version Control & Tools:** Git | GitHub | PyCharm | VS Code
+
+---
+
+
+
+---
+
+### 📫 Let's Connect
+
+* **Email:** essammoraly3@gmail.com
+* **GitHub:** [essam9797](https://github.com/essam9797)
